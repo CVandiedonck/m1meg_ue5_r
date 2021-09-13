@@ -2,8 +2,9 @@
 
 This repository contains the practical material to use on PlasmaBio for the fisrst session of my R lectures to the master students of the magistère européen de génétique at Université de Paris.
 
-There are 7 sessions:
+There is a preparatory session followed by 7 sessions:
 
+- R#0: 1st steps with R
 - R#1: R environment, main R objetcs and particularly vectors.
 - R#2: TBA
 - R#3: TBA
