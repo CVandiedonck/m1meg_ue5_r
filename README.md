@@ -1,7 +1,16 @@
 # Objective
 
-This repository contains the practical material to use on PlasmaBio for the fisrst session of my R lectures to the master students of the magistère européen de génétique at Université de Paris. 
-The theme of this course is the R environment, main R objetcs and particularly vectors.
+This repository contains the practical material to use on PlasmaBio for the fisrst session of my R lectures to the master students of the magistère européen de génétique at Université de Paris.
+
+There are 7 sessions:
+
+- R#1: R environment, main R objetcs and particularly vectors.
+- R#2: TBA
+- R#3: TBA
+- R#4: TBA
+- R#5: TBA
+- R#6: TBA
+- R#7: TBA
 
 ## Try it on Binder
 
