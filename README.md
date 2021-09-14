@@ -4,14 +4,14 @@ This repository contains the practical material to use on PlasmaBio for the fisr
 
 There is a preparatory session followed by 7 sessions:
 
-- R#0: 1st steps with R
-- R#1: R environment, main R objetcs and particularly vectors.
-- R#2: TBA
-- R#3: TBA
-- R#4: TBA
-- R#5: TBA
-- R#6: TBA
-- R#7: TBA
+- R0: 1st steps with R
+- R1: R environment, main R objetcs and particularly vectors.
+- R2: TBA
+- R3: TBA
+- R4: TBA
+- R5: TBA
+- R6: TBA
+- R7: TBA
 
 ## Try it on Binder
 
