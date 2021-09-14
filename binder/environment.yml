@@ -16,7 +16,3 @@ dependencies:
   - r-tidyverse
   - r-factominer
   - r-dt
-  - r-swirl
-  - r-biocmanager
-  - bioconductor-biomart
-  - bioconductor-biostrings
