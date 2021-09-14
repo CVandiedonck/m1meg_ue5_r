@@ -11,7 +11,12 @@ dependencies:
   - nbresuse
   - nodejs
   - r-irkernel
-  - r-base>=4
+  - r-base>=4.1.0
+  - r-rcpp
   - r-tidyverse
   - r-factominer
   - r-dt
+  - r-swirl
+  - r-biocmanager
+  - bioconductor-biomart
+  - bioconductor-bistrings
