@@ -16,4 +16,3 @@ dependencies:
   - r-tidyverse
   - r-factominer
   - r-dt
-  - r-swirl
