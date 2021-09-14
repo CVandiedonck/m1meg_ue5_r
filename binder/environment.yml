@@ -19,4 +19,4 @@ dependencies:
   - r-swirl
   - r-biocmanager
   - bioconductor-biomart
-  - bioconductor-bistrings
+  - bioconductor-biostrings
