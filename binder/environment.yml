@@ -12,7 +12,6 @@ dependencies:
   - nodejs
   - r-irkernel
   - r-base>=4.1.0
-  - r-rcpp
   - r-tidyverse
   - r-factominer
   - r-dt
